@@ -1,7 +1,7 @@
 # Visual-Question-Answering
 
 ## Giới thiệu
-Dự án xây dựng hệ thống AI đa phương thức có khả năng trả lời câu hỏi tiếng Việt dựa trên nội dung hình ảnh đầu vào.
+Dự án xây dựng hệ thống VQA có khả năng trả lời câu hỏi tiếng Việt dựa trên nội dung hình ảnh đầu vào.
 Ví dụ:
 * **Input:** Ảnh quả táo + Câu hỏi "Đây là quả gì?"
 * **Output:** "Quả táo"
